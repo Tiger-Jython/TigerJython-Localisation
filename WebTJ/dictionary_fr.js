@@ -41,7 +41,7 @@ let dictionary = {
     "info-intro-2": "\" (Klett & Balmer Verlag) conçu par Juraj Hromkovič et Tobias Kohn.",
     "info-features": "Notes de sortie",
     "info-release-1.0.0": "Version de base",
-    "info-release-1.1.0": "Support linguistique étendu (français)",
+    "info-release-1.1.0": "Support linguistique étendu (français et russe)",
     "info-turtle-functions-title": "Fonctions Turtle supportées",
     "info-turtle-functions-intro": "Les commandes suivantes spécifiques à Turtle sont prises en charge dans WebTigerJython en plus de la syntaxe Python normale:",
     "info-function-title": "Commande",

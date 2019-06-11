@@ -41,7 +41,7 @@ let dictionary = {
     "info-intro-2": "\" da Juraj Hromkovič e Tobias Kohn pubblicato da Klett & Balmer.",
     "info-features": "Funzionalità",
     "info-release-1.0.0": "Versione base",
-    "info-release-1.1.0": "Supporto lingue esteso (francese)",
+    "info-release-1.1.0": "Supporto lingue esteso (francese e russo)",
     "info-turtle-functions-title": "Funzioni della tartaruga supportate",
     "info-turtle-functions-intro": "I seguenti comandi della tartaruga sono supportati in WebTigerJython, in aggiunta alla sintassi standard di Python:",
     "info-function-title": "Funzione",

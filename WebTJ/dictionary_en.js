@@ -41,7 +41,7 @@ let dictionary = {
     "info-intro-2": "\" from Juraj Hromkovič and Tobias Kohn published by Klett & Balmer.",
     "info-features": "Features",
     "info-release-1.0.0": "Basic version",
-    "info-release-1.1.0": "Extended language support (french)",
+    "info-release-1.1.0": "Extended language support (French & Russian)",
     "info-turtle-functions-title": "Supported turtle functions",
     "info-turtle-functions-intro": "The following turtle specific commands are supported in WebTigerJython in addition to the standard Python syntax:",
     "info-function-title": "Function",
