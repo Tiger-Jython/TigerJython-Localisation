@@ -104,6 +104,8 @@ let dictionary = {
     "info-description-getpos": "Restituisce le cordinate (x, y) della posizione corrente della tartaruga. Puoi accedere alla cordinata x con getPos()[0] e alla cordinata y con getPos()[1].",
     "info-description-getx": "Restituisce la cordinata x della posizione corrente della tartaruga.",
     "info-description-gety": "Restituisce la cordinata y della posizione corrente della tartaruga.",
+    "info-description-distance": "Restituisce la distanza della tartaruga al punto (x, y).",
+    "info-description-towards": "Restituisce l'angolo della tartaruga (in gradi) rispetto alla posizione (x, y).",
     "info-description-moveto": "Sposta la tartaruga alla posizione indicata (x, y).",
     "info-description-setpos": "Sposta la tartaruga alla posizione indicata (x, y) senza disegnare.",
     "info-description-setx": "Sposta la tartaruga alla cordinata x indicata senza disegnare.",

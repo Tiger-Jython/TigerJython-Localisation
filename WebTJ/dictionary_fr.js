@@ -110,6 +110,8 @@ let dictionary = {
         "coordonnée x peut être interrogée avec getPos()[0] et la coordonnée y avec getPos()[1].",
     "info-description-getx": "Renvoie les coordonnées x de la position actuelle de la tortue.",
     "info-description-gety": "Renvoie les coordonnées y de la position actuelle de la tortue.",
+    "info-description-distance": "Renvoie la distance de la tortue au point (x, y).",
+    "info-description-towards": "Renvoie l'angle de la tortue (en degrés) par rapport à la position (x, y).",
     "info-description-moveto": "Déplace la tortue jusqu'au point (x, y) en dessinant.",
     "info-description-setpos": "Déplace la tortue jusqu'au point (x, y) sans dessiner.",
     "info-description-setx": "Déplace la tortue à la coordonnée x donnée sans dessiner.",

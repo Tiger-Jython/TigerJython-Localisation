@@ -110,6 +110,8 @@ let dictionary = {
         "координата y через getPos()[1].",
     "info-description-getx": "Вернуть x-координату местоположения черепашки.",
     "info-description-gety": "Вернуть y-координату местоположения черепашки.",
+    "info-description-distance": "Возвращает расстояние черепахи до точки (x, y).",
+    "info-description-towards": "Возвращает угол черепахи относительно точки (x, y).",
     "info-description-moveto": "Переместить черепашку в точку (x, y).",
     "info-description-setpos": "Переместить черепашку в точку (x, y, не оставляя следов.",
     "info-description-setx": "Переместить черепашку в заданную координату х, не оставляя следов.",

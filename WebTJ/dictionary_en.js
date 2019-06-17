@@ -103,15 +103,17 @@ let dictionary = {
     "info-description-makecolor-rgba": ": makeColor(R,G,B,A), makeColor(\"rgba(R,G,B,A\")) the values for R, G, B are " +
         "the same as above. A is a float value between 0 and 1 which indicates the transparency.",
     "info-description-makecolor-rainbow": "rainbow",
-    "info-description-makecolor-rainbow-descr": ": makeColor(\"rainbow\", 0.5) return a color of the rainbow spectre. The parameter is a float between 0 and 1.",
+    "info-description-makecolor-rainbow-descr": ": makeColor(\"rainbow\", 0.5) returns a color of the rainbow spectre. The parameter is a float between 0 and 1.",
     "info-description-makecolor-hexadecimal": "hexadecimal",
     "info-description-makecolor-hexadecimal-descr": ": makeColor(\"#7FFFD4\") the color is a hexadecimal string.",
     "info-description-makecolor-colorstring": ": makeColor(\"Aqua-Marine\") the color is a string in English.",
-    "info-description-getpixelcolorstr": "Return the colour of the pixel at the current turtle position.",
-    "info-description-getpos": "Return the coordinates (x, y) of the current turtle position. The x-coordinate can be " +
+    "info-description-getpixelcolorstr": "Returns the colour of the pixel at the current turtle position.",
+    "info-description-getpos": "Returns the coordinates (x, y) of the current turtle position. The x-coordinate can be " +
         "accessed with getPos()[0] and the y-coordinate with getPos()[1].",
-    "info-description-getx": "Return the x-coordinate of the current turtle position.",
-    "info-description-gety": "Return the y-coordinate of the current turtle position.",
+    "info-description-getx": "Returns the x-coordinate of the current turtle position.",
+    "info-description-gety": "Returns the y-coordinate of the current turtle position.",
+    "info-description-distance": "Returns the distance of the turtle to the point (x, y).",
+    "info-description-towards": "Returns the direction of the turtle (in degree) compared to the position (x, y).",
     "info-description-moveto": "Move the turtle to the given point (x, y).",
     "info-description-setpos": "Set the turtle to the given point (x, y) without drawing.",
     "info-description-setx": "Set the turtle to the given x-coordinate without drawing.",
