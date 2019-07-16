@@ -120,5 +120,14 @@ let dictionary = {
     "info-contact": "Contatto",
     "info-contact-descr": "Per favore invia il tuo feedback e i tuoi suggerimenti sull'ambiente di programmazione direttamente a Nicole Trachsler per email: nicole.trachsler@inf.ethz.ch",
     "info-authors": "Autori:",
-    "info-copyright-descr": "L'applicazione è sviluppata attivamente dall'ABZ dell'ETH Zurich. L'uso dell'applicazione è libero, ma non può essere usata a fini commerciali. Qualunque modifica o copia dell'applicazione deve essere autorizzata per iscritto."
+    "info-copyright-descr": "L'applicazione è sviluppata attivamente dall'ABZ dell'ETH Zurich. L'uso dell'applicazione è libero, ma non può essere usata a fini commerciali. Qualunque modifica o copia dell'applicazione deve essere autorizzata per iscritto.",
+
+    // Translations for the skulpt Python interpreter
+    "skulpt-compiler-error-function": "La funzione",
+    "skulpt-compiler-error-argument": "argomento",
+    "skulpt-compiler-error-arguments": "argomenti",
+    "skulpt-compiler-error-exactly": "atteso esattamente",
+    "skulpt-compiler-error-least": "si aspetta almeno",
+    "skulpt-compiler-error-most": "massimo atteso",
+    "skulpt-compiler-error-given": "dato"
 };

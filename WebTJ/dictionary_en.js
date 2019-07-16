@@ -135,5 +135,16 @@ let dictionary = {
     "info-authors": "Authors:",
     "info-copyright-descr": "The application is actively developed by the ABZ of ETH Zurich. The use of the " +
         "application is free, but it may not be used for commercial purposes. Any customization or copy of the " +
-        "application must be given in writing."
+        "application must be given in writing.",
+
+    // Translations for the skulpt Python interpreter
+
+    // Translations for the skulpt Python interpreter
+    "skulpt-compiler-error-function": "The function",
+    "skulpt-compiler-error-argument": "argument",
+    "skulpt-compiler-error-arguments": "arguments",
+    "skulpt-compiler-error-exactly": "takes exactly",
+    "skulpt-compiler-error-least": "takes at least",
+    "skulpt-compiler-error-most": "takes at most",
+    "skulpt-compiler-error-given": "given"
 };

@@ -133,5 +133,14 @@ let dictionary = {
     "info-authors": "Авторы:",
     "info-copyright-descr": "Приложение активно разрабатывается группой ABZ швейцарской высшей технической школы Цюриха (ETH Zurich). " +
         "Использование приложения бесплатно, но оно не может быть использовано в коммерческих целях. Любая адаптация или копия " +
-        "приложения должна быть утверждена в письменной форме." 
+        "приложения должна быть утверждена в письменной форме.",
+
+    // Translations for the skulpt Python interpreter
+    "skulpt-compiler-error-function": "функцию",
+    "skulpt-compiler-error-argument": "argument",
+    "skulpt-compiler-error-arguments": "arguments",
+    "skulpt-compiler-error-exactly": "takes exactly",
+    "skulpt-compiler-error-least": "takes at least",
+    "skulpt-compiler-error-most": "takes at most",
+    "skulpt-compiler-error-given": "given"
 };

@@ -142,5 +142,14 @@ let dictionary = {
     "info-authors": "Autoren:",
     "info-copyright-descr": "Die Applikation wird aktiv vom ABZ der ETH Zürich entwickelt. Die Benutzung der " +
         "Applikation ist kostenlos, sie darf jedoch nicht für kommerzielle Zwecke genutzt werden. Jede Anpassung " +
-        "oder Kopie der Applikation muss schriftlich bewilligt werden."
+        "oder Kopie der Applikation muss schriftlich bewilligt werden.",
+
+    // Translations for the skulpt Python interpreter
+    "skulpt-compiler-error-function": "Die Funktion",
+    "skulpt-compiler-error-argument": "Argument",
+    "skulpt-compiler-error-arguments": "Argumente",
+    "skulpt-compiler-error-exactly": "erwartet genau",
+    "skulpt-compiler-error-least": "erwartet mindestens",
+    "skulpt-compiler-error-most": "erwartet maximal",
+    "skulpt-compiler-error-given": "gegeben"
 };
