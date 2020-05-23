@@ -1,9 +1,9 @@
 #
-# (c) 2014-2019, Tobias Kohn
+# (c) 2014-2020, Tobias Kohn
 #
 # http://jython.tobiaskohn.ch/
 #
-# LAST CHANGE: JAN-19-2019
+# LAST CHANGE: MAY-23-2020
 #
 language.name = "Deutsch"
 
@@ -202,6 +202,10 @@ prefs.feedback.sendhttp.tooltip = "Hilf uns, TigerJython noch besser zu machen, 
 prefs.ximport = "Erweiterte Syntax in importierten Dateien unterstützen."
 
 prefs.jython.protectfunctions = "Eingebaute Funktionen vor dem Überschreiben schützen."
+
+prefs.appearance = "Aussehen"
+prefs.theme = "Motiv"
+prefs.interpreter = "Python Interpreter"
 
 prefs.library = "Bibliotheken"
 prefs.aplu.turtle.winsize = "Fenstergrösse der Turtle"

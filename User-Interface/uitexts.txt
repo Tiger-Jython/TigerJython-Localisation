@@ -1,9 +1,9 @@
 #
-# (c) 2014-2019, Tobias Kohn
+# (c) 2014-2020, Tobias Kohn
 #
 # http://jython.tobiaskohn.ch/
 #
-# LAST CHANGE: JAN-19-2019
+# LAST CHANGE: MAY-23-2020
 #
 language.name = "English"
 
@@ -160,7 +160,7 @@ prefs {
 	.hideexeccode = "Hide main window during execution."
     .language = "Language"
     .lookandfeel = "Look and feel"
-
+    
     .advanced = "Advanced"
 	.advanced.tooltip = "Change advanced setting."
 	.docmode.multi = "Edit documents using tabs."
@@ -206,6 +206,10 @@ prefs {
 	.importsite = "Import site-packages at startup."
 	.jython.protectfunctions = "Protect builtin-functions."
 	.ximport = "Preprocess imports for extended syntax support."
+	
+	.appearance = "Appearance"
+	.theme = "Theme"
+	.interpreter = "Python Interpreter"
 	
 	.library = "Library"
     .aplu.turtle.winsize = "Turtle's window size"

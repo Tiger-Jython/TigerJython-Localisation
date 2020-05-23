@@ -3,7 +3,7 @@
 #                Aegidius Pluess
 # http://jython.tobiaskohn.ch/
 #
-# LAST CHANGE: FEB-22-2018
+# LAST CHANGE: MAY-23-2020
 #
 language.name = "Français"
 
@@ -207,7 +207,11 @@ prefs {
 	.jython.protectfunctions = "Protéger les fonctions intégrées (builtin) de Python."
 	.ximport = "Preprocessing des imports pour un support de la syntaxe étendue."
 
-	.library = "Bibliothèque"
+	.appearance = "Apparence"
+	.theme = "Thème"
+	.interpreter = "Interpréter Python"
+	
+    .library = "Bibliothèque"
 	.aplu.turtle.winsize = "Dimensions de la fenêtre de la tortue"
 	.aplu.turtle.winsize.default = "Valeur par défaut"
 	.aplu.turtle.winsize.default.tooltip = "Utiliser les valeurs par défaut de la bibliothèque."

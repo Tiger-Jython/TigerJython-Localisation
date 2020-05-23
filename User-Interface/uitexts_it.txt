@@ -5,7 +5,7 @@
 #
 # http://jython.tobiaskohn.ch/
 #
-# LAST CHANGE: MAY-16-2019
+# LAST CHANGE: MAY-23-2020
 #
 language.name = "Italiano"
 
@@ -219,6 +219,10 @@ prefs {
 	.importsite = "Importa pacchetti del sito all'avvio."
 	.jython.protectfunctions = "Proteggi funzioni built-in."
 	.ximport = "Preprocessa importazioni per supporto di sintassi estesa."
+	
+	.appearance = "Apparenza"
+	.theme = "Theme"
+	.interpreter = "Python Interpreter"
 	
 	# The library settings can in principle be changed by students and
 	# are about A. Plüss' libraries (turtle etc.)

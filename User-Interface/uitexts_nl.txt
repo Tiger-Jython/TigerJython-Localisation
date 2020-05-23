@@ -3,7 +3,7 @@
 #
 # http://jython.tobiaskohn.ch/
 #
-# LAST CHANGE: FEB-22-2018
+# LAST CHANGE: MAY-23-2020
 #
 language.name = "Nederlands"
 
@@ -203,6 +203,10 @@ prefs {
 	
 	.importsite = "Bij opstarten site-packages importeren."
 	.ximport = "Uitgebreide syntax in geïmporteerde bestanden ondersteunen."
+	
+	.appearance = "Appearance"
+	.theme = "Theme"
+	.interpreter = "Python Interpreter"
 	
 	.library = "Bibliotheek"
     .aplu.turtle.winsize = "Venstergrootte voor de turtle"

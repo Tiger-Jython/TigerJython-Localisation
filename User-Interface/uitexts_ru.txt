@@ -1,10 +1,9 @@
 #
-# (c) 2019-, Tobias Kohn
-             Alexandra Maximova
+# (c) 2019-2020, Alexandra Maximova
 #
 # http://jython.tobiaskohn.ch/
 #
-# LAST CHANGE: MAY-23-2019
+# LAST CHANGE: MAY-23-2020
 #
 language.name = "Русский"
 
@@ -209,6 +208,10 @@ prefs {
 	.importsite = "Импортировать пакеты при загрузке."
 	.jython.protectfunctions = "Защитить встроенные функции от перезаписи."
 	.ximport = "Предварительная обработка импортированных пакетов и модулей для поддержки расширенного синтаксиса."
+	
+	.appearance = "Appearance"
+	.theme = "Theme"
+	.interpreter = "Python Interpreter"
 	
 	.library = "Библиотека"
     .aplu.turtle.winsize = "Размер окна черепашки"
