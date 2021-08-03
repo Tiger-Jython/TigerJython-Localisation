@@ -1,9 +1,9 @@
 #
-# (c) 2014-2020, Tobias Kohn
+# (c) 2014-2021, Tobias Kohn
 #
 # http://jython.tobiaskohn.ch/
 #
-# LAST CHANGE: MAY-23-2020
+# LAST CHANGE: AUG-03-2021
 #
 language.name = "English"
 

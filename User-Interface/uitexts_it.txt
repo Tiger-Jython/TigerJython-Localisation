@@ -5,7 +5,7 @@
 #
 # http://jython.tobiaskohn.ch/
 #
-# LAST CHANGE: MAY-23-2020
+# LAST CHANGE: AUG-03-2021
 #
 language.name = "Italiano"
 
