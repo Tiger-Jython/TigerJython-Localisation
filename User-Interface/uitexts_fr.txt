@@ -117,6 +117,7 @@ console.caption = "Console"
 output.caption = "Sortie"
 info.caption = "Information"
 problems.caption = "Erreurs"
+log.caption = "Log"
 
 quickfind.caption = "Rechercher"
 
@@ -263,6 +264,9 @@ prefs {
 	.output.input = "Console: Couleur de fond des entrées"
 	.syntax.reset = "Restaurer les valeurs par défaut"
 }
+
+prefs.messages = "Status/Messages"
+
 
 # User defined functions
 userdef.delete = "Supprimer"

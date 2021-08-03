@@ -130,6 +130,7 @@ console.caption = "Terminale"
 output.caption = "Output"
 info.caption = "Informazioni"
 problems.caption = "Problemi"
+log.caption = "Log"
 
 quickfind.caption = "Trova"
 
@@ -279,6 +280,9 @@ prefs {
 	.output.input = "Terminale: Sfondo dell'input"
 	.syntax.reset = "Ripristina impostazioni default"
 }
+
+prefs.messages = "Status/Messages"
+
 
 # User defined functions
 userdef.delete = "Elimina"

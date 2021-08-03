@@ -115,6 +115,7 @@ console.caption = "Console"
 output.caption = "Uitvoer"
 info.caption = "Info"
 problems.caption = "Berichten"
+log.caption = "Log"
 
 quickfind.caption = "Zoeken"
 

@@ -117,6 +117,7 @@ console.caption = "Konsole"
 output.caption = "Ausgabe"
 info.caption = "Info"
 problems.caption = "Meldungen"
+log.caption = "Log"
 
 quickfind.caption = "Suchen"
 
@@ -235,6 +236,8 @@ prefs.aplu.ev3.robotnone = "Kein Roboter"
 prefs.aplu.ev3.robotev3 = "Lego EV3"
 prefs.aplu.ev3.robotrpi = "Raspberry Pi"
 prefs.aplu.ev3.microbit = "micro:bit/Calliope"
+
+prefs.messages = "Status/Messages"
 
 prefs {
 	.syntax = "Syntax"
