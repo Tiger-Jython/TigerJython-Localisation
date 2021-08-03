@@ -161,6 +161,7 @@ prefs {
 	.hideexeccode = "Hide main window during execution."
     .language = "Language"
     .lookandfeel = "Look and feel"
+    .zoom = "Zoom level"
     
     .advanced = "Advanced"
 	.advanced.tooltip = "Change advanced setting."

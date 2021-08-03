@@ -176,6 +176,7 @@ prefs {
 	.hideexeccode = "Nascondi la finestra principale durante l'esecuzione."
     .language = "Lingua"
     .lookandfeel = "Apparenza"
+    .zoom = "Zoom level"
 
 	# Advanced settings are rather for experiences users or teachers who
 	# tell the students to use a specific setting.

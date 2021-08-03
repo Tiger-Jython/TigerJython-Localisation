@@ -159,6 +159,7 @@ prefs {
 	.hideexeccode = "Hoofdvenster verbergen tijdens uitvoering."
     .language = "Taal"
     .lookandfeel = "Uiterlijk"
+    .zoom = "Zoom level"
 	
     .advanced = "Geavanceerd"
 	.advanced.tooltip = "Geavanceerde instellingen veranderen."

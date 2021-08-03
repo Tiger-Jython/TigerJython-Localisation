@@ -156,6 +156,7 @@ prefs.scaletoscreen = "Für hohe Bildschirmauflösungen skalieren."
 prefs.hideexeccode = "Das Hauptfenster während der Ausführung ausblenden."
 prefs.language = "Sprache"
 prefs.lookandfeel = "Aussehen"
+prefs.zoom = "Skalierung"
 
 prefs.advanced = "Erweitert"
 prefs.docmode.multi = "Mehrere Programme in Tabs editieren."
